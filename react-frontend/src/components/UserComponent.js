@@ -43,6 +43,7 @@ export default class UserComponent extends React.Component {
                         }
                     </tbody>
                 </table>
+                <form></form>
             </div>
         )
     }
